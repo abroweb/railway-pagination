@@ -5,7 +5,7 @@
 * Update History
 * Name            Date       Description
 * --------------- ---------- ------------------------------------------------------------------------------
-* Asp3ctus        14/03/2013 - Migrate to compund and new jugglingdb api
+* Asp3ctus        14/03/2013 - Migrate to compound and new jugglingdb api
 * Jude L.         04/26/2012 - Updated the paginateCollection to allow the passing of order option to the Model.all routine.
 * Jude L.         05/19/2012 - Updated the paginateCollection to allow the passing of where option to the Model.all routine
                               if one is provided.
